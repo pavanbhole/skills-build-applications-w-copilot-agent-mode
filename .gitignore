@@ -1,3 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+/octofit-tracker/backend/venv/
+venv/
+.venv/
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
 .DS_Store
 
 # Virtual Environment
